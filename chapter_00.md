@@ -15,7 +15,7 @@ body {
 
 ---
 <!-- 주석모음 -->
-<a id="fn-1" href="#rfn-1">[1]</a>fluent interface : [참조](https://ko.wikipedia.org/wiki/%ED%94%8C%EB%A3%A8%EC%96%B8%ED%8A%B8_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4){: target="_blank"}
+<a id="fn-1" href="#rfn-1">[1]</a>fluent interface : [참조](https://ko.wikipedia.org/wiki/%ED%94%8C%EB%A3%A8%EC%96%B8%ED%8A%B8_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4){:target="_blank"}
 
 ## 옮긴이의 말
 
